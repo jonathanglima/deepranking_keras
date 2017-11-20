@@ -1,0 +1,9 @@
+Keras==2.1.1
+numpy==1.13.3
+matplotlib==2.1.0
+scikit-image==0.13.1
+tqdm==4.19.4
+jupyter==1.0.0
+jupyter-client==5.1.0
+jupyter-console==5.2.0
+jupyter-core==4.4.0
